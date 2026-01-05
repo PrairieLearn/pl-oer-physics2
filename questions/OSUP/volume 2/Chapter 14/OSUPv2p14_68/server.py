@@ -1,5 +1,4 @@
 import random
-from ossaudiodev import control_labels
 
 import numpy as np
 
